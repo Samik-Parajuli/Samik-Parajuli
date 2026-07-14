@@ -82,7 +82,9 @@ Based in Kathmandu, Nepal
 </div>
 
 ---
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Samik-Parajuli/snake/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <div align="center">
 
 `> connection secure. session active. thanks for stopping by.`
