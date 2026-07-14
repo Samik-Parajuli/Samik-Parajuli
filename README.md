@@ -16,11 +16,13 @@
 ---
 
 ### `$ cat about_me.txt`
+
 BSc (Hons) Computer Science — Network Technology & Cybersecurity
 Texas College of Management & IT (in collaboration with Lincoln University College)
 Currently prepping for CAPen (Certified AppSec Pentester)
 CTF player & organizer
 Based in Kathmandu, Nepal
+
 
 ### `$ cat currently_hacking_on.txt`
 [+] Web App Pentesting        — Burp Suite, PortSwigger Web Security Academy
