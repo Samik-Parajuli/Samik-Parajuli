@@ -46,6 +46,9 @@ Based in Kathmandu, Nepal
 </div>
 
 ### `$ cat certifications.txt`
+[✓] Cisco Certified Network Associate (CCNA) — Routing & Switching
+[✓] Cisco Certified Network Professional (CCNP) — Enterprise
+[✓] Cisco Introduction to Cybersecurity
 [~] CEH v13 (in progress)
 [~] CAPen (in progress — 12 week roadmap)
 
